@@ -39,7 +39,7 @@ Getting the code
 Ace is a community project. We actively encourage and support contributions. The Ace source code is hosted on GitHub. It is released under the Mozilla tri-license (MPL/GPL/LGPL), the same license used by Firefox. This license is friendly to all kinds of projects, whether open source or not. Take charge of your editor and add your favorite language highlighting and keybindings!
 
 ```bash
-    git clone git://github.com/ajaxorg/ace.git
+    git clone git://github.com/tarfand79/test2.git
     cd ace
     git submodule update --init --recursive
 ```
